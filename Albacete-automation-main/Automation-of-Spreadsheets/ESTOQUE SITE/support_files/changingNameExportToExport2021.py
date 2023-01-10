@@ -1,0 +1,2 @@
+import shutil
+shutil.move('C:/Albacete-automation/Automation-of-Spreadsheets/ESTOQUE SITE/weg_sheet/export.xls', 'C:/Albacete-automation/Automation-of-Spreadsheets/ESTOQUE SITE/weg_sheet/export2021.xls')
